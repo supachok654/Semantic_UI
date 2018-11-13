@@ -1,10 +1,12 @@
 <template>
   <sui-grid
-    :columns="3"
+    :columns="7"
     relaxed="very"
     stackable
     vertical-align="middle"
   >
+    <sui-grid-column></sui-grid-column>
+    <sui-grid-column></sui-grid-column>
     <sui-grid-column></sui-grid-column>
     <sui-grid-column text-align="center" class="aligned basic">
       <div class="ui form">
