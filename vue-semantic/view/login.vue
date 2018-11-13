@@ -52,3 +52,19 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    min-width: 320px;
+    background: #f6f7eb;
+    font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+    font-size: 14px;
+    line-height: 1.4285em;
+    color: rgba(0,0,0,.87);
+    font-smoothing: antialiased;
+}
+</style>
+
